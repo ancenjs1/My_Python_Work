@@ -1,3 +1,3 @@
 # Demo
 
-learn some basis of git
+learning some basis of Git!
